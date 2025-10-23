@@ -1,4 +1,4 @@
-# 👋 Hi, I'm oadev-eng!
+# 👋 Hi, I'm Cynthia!
 
 Welcome! My journey began in the world of pharmacy, where I spent years as an excellent pharmacist dedicated to patient care, improving outcomes, and solving complex healthcare challenges. Harnessing my skills in problem-solving, precision, and empathy, I’ve helped countless individuals lead healthier lives—and now, I’m bringing that same commitment and curiosity to software development.
 
