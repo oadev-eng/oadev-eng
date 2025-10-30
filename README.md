@@ -41,9 +41,7 @@ Just as I approach healthcare and software with a problem-solving mindset, I enj
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/cynthia-anagu-94667735a)
-- [Medium](https://medium.com/@cynthia.anagu)
-- 📧 Email: cynthia.anagu@outlook.com
+📧 cynthia.anagu@outlook.com
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/cynthia-anagu-94667735a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cynthia-anagu-94667735a" height="30" width="40" /></a>
 <a href="https://medium.com/@cynthia.anagu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cynthia.anagu" height="30" width="40" /></a>
